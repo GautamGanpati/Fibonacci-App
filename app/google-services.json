@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601356333708",
+    "project_id": "xelp-5867e",
+    "storage_bucket": "xelp-5867e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601356333708:android:ed47cdd2cdb8b89833c1a9",
+        "android_client_info": {
+          "package_name": "com.xelp.miniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601356333708-o7kkhmgr8g1vstlonltc4dk70kh1m10h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzY2BQ4CuSiSVn_rFa0S6sGqMi9l52xIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601356333708-o7kkhmgr8g1vstlonltc4dk70kh1m10h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
